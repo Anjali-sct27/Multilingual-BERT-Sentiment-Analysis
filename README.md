@@ -1,5 +1,6 @@
 # Multilingual BERT Sentiment Analysis
 This project implements a multilingual sentiment analysis system using a BERT-based model. It classifies user comments as positive or negative by automatically detecting the input language and translating non-English text to English before sentiment prediction.
+My colab link:https://colab.research.google.com/github/Anjali-sct27/Multilingual-BERT-Sentiment-Analysis/blob/main/Multilingual_BERT_Sentiment_Analysis_clean.ipynb.ipynb#scrollTo=PPtPALWeLO0F
 
 ## Project Description
 User-generated content on social media and review platforms often appears in multiple languages. Traditional sentiment analysis systems usually work only for English text. This project addresses that limitation by combining language detection, machine translation, and a transformer-based sentiment classifier.
