@@ -71,5 +71,3 @@ Output:Positive
 ## Author
 Anjali S Nair
 B.Tech student with interest in AI, Machine Learning, and Natural Language Processing
-
-Just tell me 👍
